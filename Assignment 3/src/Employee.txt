@@ -1,0 +1,6 @@
+HAFIZ  280806  25  Morning  CUSTOMER SERVICE  Male  1824.0  
+____
+NADHIRAH  280890  24  Morning  CUSTOMER SERVICE  Female  1520.0  
+____
+FARISS  280100  23  Morning  IT  Female  3192.0  
+____
